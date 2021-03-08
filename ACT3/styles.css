@@ -241,9 +241,10 @@
 .portfoliogallery{
     max-width: auto;
     display: flex;
-    height: 700px;
     flex-wrap: wrap;
     height: auto;
+    align-items: center;
+     justify-content: center;
     
 }
 
@@ -276,6 +277,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 max-width: 100%;
 text-align: center;
 color: #4a4b65; 
+
     
 }
 
